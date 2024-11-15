@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Blue -->
+    <color name="turquoise_blue">#00A1DE</color>
+    <color name="navy_blue_300">#004C90</color>
+    <color name="navy_blue_500">#002D5F</color>
+    <color name="navy_blue_700">#142540</color>
+    <color name="powder_blue_500">#476EA4</color>
+
+    <!-- Transparent -->
+    <color name="transparent">#00FFFFFF</color>
+
+    <!-- Green -->
+    <color name="light_green_100">#b2eac1</color>
+    <color name="light_green_400">#66d483</color>
+    <color name="green_300">#4CAF50</color>
+    <color name="green_500">#00FF00</color>
+    <color name="aqua_300">#80DB98</color>
+    <color name="aqua_500">#00FFBF</color>
+    <color name="lemon_300">#add136</color>
+    <color name="lemon_500">#8BC34A</color>
+    <color name="dark_green_500">#2B4928</color>
+    <color name="dark_green_700">#00401A</color>
+    <color name="teal_500">#FF018786</color>
+
+    <!-- Gray -->
+    <color name="dark_gray_500">#323232</color>
+    <color name="dark_gray_300">#555555</color>
+    <color name="dark_gray_700">#1A1A1A</color>
+    <color name="gray_100">#E3E3E3</color>
+    <color name="gray_500">#959595</color>
+    <color name="gray_600">#848485</color>
+
+    <!-- Other Colors -->
+    <color name="purple_500">#800080</color>
+    <color name="orange_500">#FF5800</color>
+    <color name="peach_700">#F6313F</color>
+    <color name="red_500">#FF0000</color>
+    <color name="pink_500">#FFC0CB</color>
+    <color name="orange_300">#ff8f00</color>
+    <color name="yellow_500">#FFFF00</color>
+    <color name="holo_red_dark">#CC0000</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+
+    <color name="colorPrimary">@color/navy_blue_300</color>
+    <color name="colorPrimaryDark">@color/navy_blue_700</color>
+    <color name="colorAccent">@color/black</color>
+    <color name="colorDefault">@color/black</color>
+
+
+    <color name="text_color">@color/dark_gray_500</color>
+    <color name="demarcation">@color/dark_gray_500</color>
+</resources>

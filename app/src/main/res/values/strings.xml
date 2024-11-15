@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginCompose</string>
+    <string name="title_activity_get_started">GetStartedActivity</string>
+</resources>
