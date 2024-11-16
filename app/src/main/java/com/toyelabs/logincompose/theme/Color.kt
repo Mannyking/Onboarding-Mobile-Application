@@ -56,13 +56,13 @@ val Black = Color(0xFF000000)
 
 /* ---------------------------colors that pertain to views and similar--------------------------- */
 val TextDark = Black
-val TextLight = White
+val TextLight = Gray100
 
-val BackgroundLight = White
+val BackgroundLight = Gray500
 val BackgroundDark = Black
 
-val ColorPrimary = NavyBlue300
-val ColorPrimaryDark = TurquoiseBlue300
+val ColorPrimary = TurquoiseBlue300
+val ColorPrimaryDark = NavyBlue300
 
 val ColorSecondary = NavyBlue500
 val ColorSecondaryDark = TurquoiseBlue500
